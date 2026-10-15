@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newblog2026.github.io/blog/sitemap.xml
